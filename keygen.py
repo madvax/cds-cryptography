@@ -1,9 +1,9 @@
 # 
-# Generate a Python Cryptograpic Key File
+# keygen CDS Cryptographic Utilities
+# Generate a Cryptograpic Key File
 #
-# 9uwIsfVW0WSA6MGZopTj
+# madvax@madvax.com
 #
-# 
 import sys
 import os
 from getopt import getopt
